@@ -1,0 +1,26 @@
+/*   */
+
+.navbar-brand img{max-width: 100px;}
+
+#boton_verde {color:#25a342}
+
+
+
+/* Estilo de los titulos  */
+
+
+/* Estilo de carousel  */
+
+.carousel-item
+{ 
+    background-size: cover;
+    background-position: center center;       
+
+}
+
+.card-custom {
+
+ 
+ background-color: #25a342
+
+}
